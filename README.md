@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 Test Instructions:
 1. The notebook preprocess_test.ipynb can be run locally in the system to preprocess the test data.
-2. The preprocessed test data and the notebook ee5179-test can be uploaded into kaggle to obtain results for the test data.
+2. The preprocessed test data and the notebook ee5179-test.ipynb can be uploaded into kaggle to obtain results for the test data.
    
